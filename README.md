@@ -1,0 +1,1 @@
+# DuckDB-for-AI-projects
