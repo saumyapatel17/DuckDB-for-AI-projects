@@ -1,0 +1,6 @@
+numpy 
+pandas
+duckdb
+llama-index
+llama-index-vector-stores-duckdb
+duckdb-engine
